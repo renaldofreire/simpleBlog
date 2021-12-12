@@ -1,4 +1,3 @@
 # Simple Blog
 
-
-Criado usando Hexo
+Blog criado usando Nexo, com propósito de expor alguns trabalhos e demonstrar o processo de aprendizagem.
